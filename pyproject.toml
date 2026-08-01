@@ -1,0 +1,10 @@
+[project]
+name = "mcp-new-spec"
+version = "0.1.0"
+description = "Server/client demos for the MCP 2026-07-28 specification"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx2>=2.9.1",
+    "mcp>=2.0.0",
+]
