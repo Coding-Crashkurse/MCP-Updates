@@ -172,4 +172,5 @@ wird verworfen.
 - **Tasks-Extension** — im offiziellen SDK bisher nur als Typen vorhanden, ohne
   Implementierung. Nutzbar aktuell nur über `fastmcp-tasks`.
 #   M C P - U p d a t e s  
+ #   M C P - U p d a t e s  
  
